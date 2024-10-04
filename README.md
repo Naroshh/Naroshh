@@ -1,25 +1,96 @@
-# 💫 About Me:
-### Hi there, I'm Arthur Ferreira 👋<br><br>- 🌍 Living in Finland, originally from Brazil<br>- 💻 Junior Web Developer passionate about coding and technology<br>- 🎮 Experience with C#, .NET Framework, and Unity (3D/VR)<br>- 🌐 Building responsive and user-friendly websites with HTML, CSS, JavaScript, and PHP<br>- 💼 Open to web development and programming opportunities<br>- 🗣️ Fluent in Portuguese, Finnish, and English<br><br>### Skills & Technologies:<br>- **Languages**: C#, JavaScript, PHP, HTML, CSS, SQL<br>- **Frameworks**: .NET Framework, Bootstrap<br>- **Game Development**: Unity 3D/VR<br>- **Tools**: Visual Studio, Visual Studio Code, GitHub, Microsoft 365<br><br>### Featured Projects:<br>- [My Portfolio Website](https://naroshh.github.io): A fully responsive portfolio site built with Bootstrap, HTML, CSS, and JavaScript.<br>- [Game Development with Unity](https://github.com/Naroshh/GameProject): A VR game developed in Unity showcasing my skills in game development.<br><br>### Let's Connect:<br>- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)<br>- [Portfolio](https://naroshh.github.io)<br>- 📧 Email: arthur.ferreiramiran@gmail.com<br><br>### Languages:<br>- Portuguese: Native<br>- Finnish: Fluent<br>- English: Fluent<br><br><br>### Hei, olen Arthur Ferreira 👋<br><br>- 🌍 Asun Suomessa, alun perin kotoisin Brasiliasta<br>- 💻 Junior Web -kehittäjä, jolla on intohimo ohjelmointiin ja teknologiaan<br>- 🎮 Kokemusta C#:stä, .NET Frameworkista ja Unitystä (3D/VR)<br>- 🌐 Rakennan responsiivisia ja käyttäjäystävällisiä verkkosivustoja HTML:llä, CSS:llä, JavaScriptillä ja PHP:llä<br>- 💼 Avoin mahdollisuuksille työskennellä verkkokehityksen ja ohjelmoinnin parissa<br>- 🗣️ Puhun sujuvasti portugalia, suomea ja englantia<br><br>### Taitoni ja teknologiat:<br>- **Kielet**: C#, JavaScript, PHP, HTML, CSS, SQL<br>- **Frameworkit**: .NET Framework, Bootstrap<br>- **Pelinkehitys**: Unity 3D/VR<br>- **Työkalut**: Visual Studio, Visual Studio Code, GitHub, Microsoft 365<br><br>### Esittelyprojekteja:<br>- [Portfolio-verkkosivustoni](https://naroshh.github.io): Täysin responsiivinen portfolion verkkosivusto, rakennettu Bootstrapilla, HTML:llä, CSS:llä ja JavaScriptillä.<br>- [Pelinkehitys Unityllä](https://github.com/Naroshh/GameProject): Unityllä kehitetty VR-peli, joka esittelee pelinkehitystaitoni.<br><br>### Ota yhteyttä:<br>- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)<br>- [Portfolio](https://naroshh.github.io)<br>- 📧 Sähköposti: arthur.ferreiramiran@gmail.com<br><br>### Kielet:<br>- Portugali: Äidinkieli<br>- Suomi: Sujuva<br>- Englanti: Sujuva<br><br><br>### Olá, eu sou o Arthur Ferreira 👋<br><br>- 🌍 Moro na Finlândia, originalmente do Brasil<br>- 💻 Desenvolvedor Web Júnior, apaixonado por programação e tecnologia<br>- 🎮 Experiência com C#, .NET Framework e Unity (3D/VR)<br>- 🌐 Construindo sites responsivos e fáceis de usar com HTML, CSS, JavaScript e PHP<br>- 💼 Aberto a oportunidades de trabalho em desenvolvimento web e programação<br>- 🗣️ Fluente em português, finlandês e inglês<br><br>### Habilidades & Tecnologias:<br>- **Linguagens**: C#, JavaScript, PHP, HTML, CSS, SQL<br>- **Frameworks**: .NET Framework, Bootstrap<br>- **Desenvolvimento de Jogos**: Unity 3D/VR<br>- **Ferramentas**: Visual Studio, Visual Studio Code, GitHub, Microsoft 365<br><br>### Projetos em Destaque:<br>- [Meu site Portfólio](https://naroshh.github.io): Um site portfólio totalmente responsivo, construído com Bootstrap, HTML, CSS e JavaScript.<br>- [Desenvolvimento de Jogos com Unity](https://github.com/Naroshh/GameProject): Um jogo de VR desenvolvido no Unity, demonstrando minhas habilidades em desenvolvimento de jogos.<br><br>### Entre em Contato:<br>- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)<br>- [Portfólio](https://naroshh.github.io)<br>- 📧 Email: arthur.ferreiramiran@gmail.com<br><br>### Idiomas:<br>- Português: Nativo<br>- Finlandês: Fluente<br>- Inglês: Fluente<br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arthurreira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arthurreira_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arthur-ferreira-66815524a) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naroshh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naroshh&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naroshh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naroshh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💫 About Me:
+This profile is available in multiple languages: 🇬🇧 English, 🇫🇮 Finnish, 🇧🇷 Portuguese.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naroshh&icon=4&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/okei) 
+### 🇬🇧 **ENGLISH**
+Hi there, I'm **Arthur Ferreira** 👋  
+- 🌍 Living in Finland, originally from Brazil  
+- 💻 Junior Web Developer passionate about coding and technology  
+- 🎮 Experience with C#, .NET Framework, and Unity (3D/VR)  
+- 🌐 Building responsive and user-friendly websites with HTML, CSS, JavaScript, and PHP  
+- 💼 Open to web development and programming opportunities  
+- 🗣️ Fluent in Portuguese, Finnish, and English  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Skills & Technologies:  
+- **Languages**: C#, JavaScript, PHP, HTML, CSS, SQL  
+- **Frameworks**: .NET Framework, Bootstrap  
+- **Game Development**: Unity 3D/VR  
+- **Tools**: Visual Studio, Visual Studio Code, GitHub, Microsoft 365  
+
+### Featured Projects:  
+- [My Portfolio Website](https://naroshh.github.io): A fully responsive portfolio site built with Bootstrap, HTML, CSS, and JavaScript.  
+- [Game Development with Unity](https://github.com/Naroshh/GameProject): A VR game developed in Unity showcasing my skills in game development.  
+
+### Let's Connect:  
+- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)  
+- [Portfolio](https://naroshh.github.io)  
+- 📧 Email: arthur.ferreiramiran@gmail.com  
+
+### Languages:  
+- Portuguese: Native  
+- Finnish: Fluent  
+- English: Fluent  
+
+---
+
+### 🇫🇮 **FINNISH**  
+Hei, olen **Arthur Ferreira** 👋  
+- 🌍 Asun Suomessa, alun perin kotoisin Brasiliasta  
+- 💻 Junior Web -kehittäjä, jolla on intohimo ohjelmointiin ja teknologiaan  
+- 🎮 Kokemusta C#:stä, .NET Frameworkista ja Unitystä (3D/VR)  
+- 🌐 Rakennan responsiivisia ja käyttäjäystävällisiä verkkosivustoja HTML:llä, CSS:llä, JavaScriptillä ja PHP:llä  
+- 💼 Avoin mahdollisuuksille työskennellä verkkokehityksen ja ohjelmoinnin parissa  
+- 🗣️ Puhun sujuvasti portugalia, suomea ja englantia  
+
+### Taitoni ja teknologiat:  
+- **Kielet**: C#, JavaScript, PHP, HTML, CSS, SQL  
+- **Frameworkit**: .NET Framework, Bootstrap  
+- **Pelinkehitys**: Unity 3D/VR  
+- **Työkalut**: Visual Studio, Visual Studio Code, GitHub, Microsoft 365  
+
+### Esittelyprojekteja:  
+- [Portfolio-verkkosivustoni](https://naroshh.github.io): Täysin responsiivinen portfolion verkkosivusto, rakennettu Bootstrapilla, HTML:llä, CSS:llä ja JavaScriptillä.  
+- [Pelinkehitys Unityllä](https://github.com/Naroshh/GameProject): Unityllä kehitetty VR-peli, joka esittelee pelinkehitystaitoni.  
+
+### Ota yhteyttä:  
+- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)  
+- [Portfolio](https://naroshh.github.io)  
+- 📧 Sähköposti: arthur.ferreiramiran@gmail.com  
+
+### Kielet:  
+- Portugali: Äidinkieli  
+- Suomi: Sujuva  
+- Englanti: Sujuva  
+
+---
+
+### 🇧🇷 **PORTUGUESE**  
+Olá, eu sou **Arthur Ferreira** 👋  
+- 🌍 Moro na Finlândia, originalmente do Brasil  
+- 💻 Desenvolvedor Web Júnior, apaixonado por programação e tecnologia  
+- 🎮 Experiência com C#, .NET Framework e Unity (3D/VR)  
+- 🌐 Construindo sites responsivos e fáceis de usar com HTML, CSS, JavaScript e PHP  
+- 💼 Aberto a oportunidades de trabalho em desenvolvimento web e programação  
+- 🗣️ Fluente em português, finlandês e inglês  
+
+### Habilidades & Tecnologias:  
+- **Linguagens**: C#, JavaScript, PHP, HTML, CSS, SQL  
+- **Frameworks**: .NET Framework, Bootstrap  
+- **Desenvolvimento de Jogos**: Unity 3D/VR  
+- **Ferramentas**: Visual Studio, Visual Studio Code, GitHub, Microsoft 365  
+
+### Projetos em Destaque:  
+- [Meu site Portfólio](https://naroshh.github.io): Um site portfólio totalmente responsivo, construído com Bootstrap, HTML, CSS e JavaScript.  
+- [Desenvolvimento de Jogos com Unity](https://github.com/Naroshh/GameProject): Um jogo de VR desenvolvido no Unity, demonstrando minhas habilidades em desenvolvimento de jogos.  
+
+### Entre em Contato:  
+- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)  
+- [Portfólio](https://naroshh.github.io)  
+- 📧 Email: arthur.ferreiramiran@gmail.com  
+
+### Idiomas:  
+- Português: Nativo  
+- Finlandês: Fluente  
+- Inglês: Fluente  
+
